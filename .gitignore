@@ -1,0 +1,4 @@
+/target/
+/chromedriver.exe
+/.idea/
+/log4j-application.log
